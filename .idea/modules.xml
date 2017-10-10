@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/eurekaDemo/eurekaDemo.iml" filepath="$PROJECT_DIR$/eurekaDemo/eurekaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaFeign/eurekaFeign.iml" filepath="$PROJECT_DIR$/eurekaFeign/eurekaFeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaRibbon/eurekaRibbon.iml" filepath="$PROJECT_DIR$/eurekaRibbon/eurekaRibbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaZUUL/eurekaZUUL.iml" filepath="$PROJECT_DIR$/eurekaZUUL/eurekaZUUL.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloudDemo.iml" filepath="$PROJECT_DIR$/springCloudDemo.iml" />
     </modules>
   </component>

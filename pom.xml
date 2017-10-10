@@ -12,6 +12,7 @@
     <module>eurekaClient</module>
     <module>eurekaRibbon</module>
     <module>eurekaFeign</module>
+    <module>eurekaZUUL</module>
 </modules>
 
 </project>

@@ -27,6 +27,7 @@
         <module name="eurekaDemo" />
         <module name="eurekaFeign" />
         <module name="eurekaRibbon" />
+        <module name="eurekaZUUL" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +36,7 @@
       <module name="eurekaDemo" target="1.7" />
       <module name="eurekaFeign" target="1.7" />
       <module name="eurekaRibbon" target="1.7" />
+      <module name="eurekaZUUL" target="1.7" />
       <module name="springCloudDemo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
